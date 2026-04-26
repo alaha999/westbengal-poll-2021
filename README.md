@@ -1,9 +1,13 @@
 # West Bengal 2021 Assembly Election Results
 
+`Streamlit app:` https://wb-election-2021.streamlit.app/
+
+*What does the app offer?*
+
 - Visualization of the 2021 Assembly Election Result by the leading political parties
 - Usual distributions about gender/vote percentage/categories/age of the candidates/seat share, etc
 
-I am particularly interested in the **volatile** seats, which were won by a small margin. As you explore the app, you can see the vote margin vs. the seat distribution.
+I am particularly interested in the **volatile** seats, which were won by narrow margins. As you explore the app, you can see the vote margin vs. the seat distribution.
 
 - `Small values mean highly volatile, and high values mean somewhat stable to those respective parties. A very high value also indicates anomalous events (like in experimental high-energy physics events;))`
 - `Interactively explore the assembly seats won by a margin between min-value and max-value. Particularly, seats won with a margin of < 10k votes are highly volatile.`
